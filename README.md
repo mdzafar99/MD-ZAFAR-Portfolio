@@ -16,5 +16,4 @@ This site is designed to provide a quick overview of my journey as a **Computer 
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend/Hosting:** Replit  
 - **Other Tools:** Git, GitHub, VS Code  
