@@ -1,6 +1,6 @@
 # 🌐 MD ZAFAR Portfolio
 
-[![Image](https://github.com/user-attachments/assets/d959a1fc-d811-42c0-bac6-42ed70b4d133)]
+![Image](https://github.com/user-attachments/assets/d959a1fc-d811-42c0-bac6-42ed70b4d133)
 
 A personal portfolio website built to showcase my skills, experience, and projects.  
 This site is designed to provide a quick overview of my journey as a **Computer Science student** and aspiring **Software/Web Developer**.
