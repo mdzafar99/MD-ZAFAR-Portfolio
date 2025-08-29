@@ -1,4 +1,4 @@
-# 🌐 <h1 style="color: yellow;">MD ZAFAR Portfolio </h1>
+# 🌐 MD ZAFAR Portfolio
 
 ![Image](https://github.com/user-attachments/assets/d959a1fc-d811-42c0-bac6-42ed70b4d133)
 
