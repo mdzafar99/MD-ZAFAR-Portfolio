@@ -18,4 +18,9 @@ This site is designed to provide a quick overview of my journey as a **Computer 
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
-- **Other Tools:** Git, GitHub, VS Code  
+- **Other Tools:** Git, GitHub, VS Code
+
+---
+
+## 🔗 Live Demo 
+- [Live](https://mdzafar99.github.io/MD-ZAFAR-Portfolio/)
