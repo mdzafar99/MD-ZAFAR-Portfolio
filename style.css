@@ -670,6 +670,77 @@ body {
     left: 100%;
 }
 
+
+
+
+
+
+
+
+
+/* Projects Section */
+.projects-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.project-card {
+    background: var(--secondary-bg);
+    border-radius: 15px;
+    padding: 1.5rem;
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.project-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 0 25px var(--neon-cyan-glow);
+}
+
+.project-title {
+    font-size: 1.3rem;
+    color: var(--neon-blue);
+    margin-bottom: 0.8rem;
+    text-shadow: var(--text-glow);
+}
+
+.project-desc {
+    font-size: 0.95rem;
+    color: var(--light-gray);
+    margin-bottom: 1.2rem;
+    line-height: 1.5;
+}
+
+.project-link {
+    display: inline-block;
+    color: var(--neon-blue);
+    font-weight: 500;
+    text-decoration: none;
+    border: 1px solid var(--neon-blue);
+    padding: 0.5rem 1rem;
+    border-radius: 30px;
+    transition: all 0.3s ease;
+}
+
+.project-link:hover {
+    background: var(--neon-blue);
+    color: #000;
+    box-shadow: 0 0 20px var(--neon-cyan-glow);
+}
+
+
+
+
+
+
+
+
+
+
 /* Certifications Section */
 .certifications-content {
     display: grid;
