@@ -1039,6 +1039,11 @@ body {
         display: flex;
     }
 
+    .contact-content {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    }
+
     .nav-menu {
         position: fixed;
         left: -100%;
