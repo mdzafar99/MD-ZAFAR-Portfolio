@@ -489,8 +489,11 @@ body {
 
 /* Experience Section */
 .experience-content {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    display: flex;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
     gap: 1.5rem;
     max-width: 800px;
     margin: 0 auto;
