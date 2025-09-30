@@ -503,6 +503,7 @@ body {
     border-radius: 10px;
     padding: 2rem;
     transition: var(--transition);
+    width: 100%;
 }
 
 .experience-item:hover {
