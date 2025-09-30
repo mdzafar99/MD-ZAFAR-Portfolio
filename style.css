@@ -489,6 +489,8 @@ body {
 
 /* Experience Section */
 .experience-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
     max-width: 800px;
     margin: 0 auto;
 }
