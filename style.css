@@ -547,6 +547,7 @@ body {
 
 .experience-details li {
     color: var(--cool-gray);
+    font-size: 1rem;
     margin-bottom: 0.5rem;
     position: relative;
     padding-left: 1.5rem;
