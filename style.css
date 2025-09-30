@@ -1041,7 +1041,9 @@ body {
 
     .contact-content {
     display: flex;
-    flex-direction: cloumn;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
     }
 
     .nav-menu {
