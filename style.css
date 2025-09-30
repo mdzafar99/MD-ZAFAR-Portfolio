@@ -404,8 +404,8 @@ body {
     position: relative;
 }
 
-.section:nth-child(even) {
-    background: var(--secondary-bg);
+/*.section:nth-child(even) {
+    background: var(--secondary-bg);*/
 }
 
 .container {
