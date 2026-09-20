@@ -290,7 +290,7 @@ function initializeRotatingTitle() {
         
         const titles = [
             'Software Developer',
-            'Frontend Web Developer', 
+            'Frontend Developer', 
             'Backend Developer',
             'Full Stack Developer'
         ];
